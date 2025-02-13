@@ -3,6 +3,7 @@
   "name": "SamplePrompt",
   "description": "testing the prompt upload",
   "author": "S-Varunn",
+  "fileName": "samplePrompt",
   "icon": "https://cdn.pixabay.com/photo/2022/01/29/07/12/chinese-lion-6976588_1280.png",
   "uploadedAt": "2025-02-12T06:47:32.648Z"
 }
